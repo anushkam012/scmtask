@@ -1,3 +1,6 @@
+//Program for printing array sum
+//write code here.
+
 #include <iostream>
 using namespace std;
 int main() {
